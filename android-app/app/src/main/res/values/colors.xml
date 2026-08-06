@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ===================================================== -->
+    <!-- AJ Broadcaster Brand Colors -->
+    <!-- ===================================================== -->
+
+    <color name="primary">#0061A4</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="primary_container">#D1E4FF</color>
+    <color name="on_primary_container">#001D36</color>
+
+    <color name="secondary">#535F70</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <color name="secondary_container">#D7E3F7</color>
+    <color name="on_secondary_container">#101C2B</color>
+
+    <color name="tertiary">#6B5778</color>
+    <color name="on_tertiary">#FFFFFF</color>
+
+    <color name="background">#FDFBFF</color>
+    <color name="surface">#FDFBFF</color>
+
+    <color name="error">#BA1A1A</color>
+
+    <!-- ===================================================== -->
+    <!-- Utility Colors -->
+    <!-- ===================================================== -->
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="transparent">#00000000</color>
+
+</resources>
