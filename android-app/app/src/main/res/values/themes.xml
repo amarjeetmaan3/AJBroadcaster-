@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Application Theme -->
+    <style
+        name="Theme.AJBroadcaster"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+
+        <!-- Material Colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+
+        <!-- Disable Force Dark because Compose handles themes -->
+        <item
+            name="android:forceDarkAllowed"
+            tools:targetApi="q">false</item>
+
+    </style>
+
+</resources>
