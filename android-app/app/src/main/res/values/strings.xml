@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ===================================================== -->
+    <!-- Application -->
+    <!-- ===================================================== -->
+
+    <string name="app_name">AJ Broadcaster</string>
+
+    <!-- ===================================================== -->
+    <!-- General -->
+    <!-- ===================================================== -->
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="loading">Loading...</string>
+    <string name="retry">Retry</string>
+
+    <!-- ===================================================== -->
+    <!-- Authentication -->
+    <!-- ===================================================== -->
+
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+
+    <!-- ===================================================== -->
+    <!-- Navigation -->
+    <!-- ===================================================== -->
+
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="settings">Settings</string>
+
+    <!-- ===================================================== -->
+    <!-- Cricket -->
+    <!-- ===================================================== -->
+
+    <string name="tournament">Tournament</string>
+    <string name="match_center">Match Center</string>
+    <string name="live_scoring">Live Scoring</string>
+
+    <!-- ===================================================== -->
+    <!-- Broadcasting -->
+    <!-- ===================================================== -->
+
+    <string name="director">Director</string>
+    <string name="camera">Camera</string>
+    <string name="graphics">Graphics</string>
+    <string name="overlay">Overlay</string>
+    <string name="stream">Stream</string>
+
+</resources>
