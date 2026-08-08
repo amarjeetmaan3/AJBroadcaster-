@@ -112,9 +112,10 @@ class ScoreEngine {
                     if (ball.isWicket) 1 else 0,
             extras = existing.extras + ball.extras,
             ballIds = existing.ballIds + ball.id,
-            isCompleted =
-                existing.legalBalls +
-                    if (legalBall) 1 else 0 >= 6,
+          isCompleted = (
+    existing.legalBalls +
+        if (legalBall) 1 else 0
+    ) >= 6,
             updatedAt = System.currentTimeMillis()
         )
 
